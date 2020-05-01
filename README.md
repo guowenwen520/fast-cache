@@ -5,6 +5,7 @@
 此处要突出特点，打差异化竞争
 
 ## 产品安装和下载
+下载地址:https://github.com/guowenwen520/fast-cache/releases
 
 ## 快速使用
 详细的使用文档或者二次开发文档，外链即可
