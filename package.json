@@ -1,6 +1,6 @@
 {
   "name": "fast-cache-wen",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "短小精悍的前端缓存工具，防止内存‘泄漏’ helloWorld",
   "main": "src/index.js",
   "scripts": {
